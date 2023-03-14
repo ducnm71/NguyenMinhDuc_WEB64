@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "63972b0bd8e07111b398b1c8"
+  },
+  "name": "Nguyen Van A",
+  "email": "example@gmail.com",
+  "address": "Abcd",
+  "phone": "01234@@@678",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6397421ec1aa7610d37d7d1c"
+  },
+  "name": "Nguyen Van B",
+  "email": "example@gmail.com",
+  "address": "Abcd",
+  "phone": "01234@@@678",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639742367e63843826fc1609"
+  },
+  "name": "Nguyen Van C",
+  "email": "example@gmail.com",
+  "address": "Abcd",
+  "phone": "01234@@@678",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6397423a1cac7247159323aa"
+  },
+  "name": "Nguyen Van C",
+  "email": "example@gmail.com",
+  "address": "Abcd",
+  "phone": "01234@@@678",
+  "__v": 0
+}]
